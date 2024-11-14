@@ -5,22 +5,22 @@ As part of the Battle School’s preparation and simulation environments, a robu
 
 ## Requirements:
 
-- **System Role**: Configure a Linux system as a **DHCP and DNS server**.
-- **IP Range Management**: Set up DHCP with three different IP ranges, each assigned to a specific facility:
+- [ ] **System Role**: Configure a Linux system as a **DHCP and DNS server**.
+- [ ] **IP Range Management**: Set up DHCP with three different IP ranges, each assigned to a specific facility:
     - **Range 1**: Command Center (e.g., `192.168.10.0/24`)
     - **Range 2**: Simulation Rooms (e.g., `192.168.20.0/24`)
     - **Range 3**: Living Quarters (e.g., `192.168.30.0/24`)
-- **Reserved IPs**: Reserve a total of 8 IP addresses across the ranges for essential systems like training simulators, secure command consoles, and network monitoring devices.
+- [ ] **Reserved IPs**: Reserve a total of 8 IP addresses across the ranges for essential systems like training simulators, secure command consoles, and network monitoring devices.
 
 ## Setup and Configuration:
 
-1. **Install Linux**:
+1. [ ] **Install Linux**:
     - Install a stable Linux distribution such as Ubuntu Server or CentOS to provide a reliable and secure base for the DHCP and DNS services.
-2. **DHCP Server Setup**:
+2. [ ] **DHCP Server Setup**:
     - Install and configure **ISC DHCP server** (or `dnsmasq` for a lighter setup).
     - Define three subnets in the DHCP configuration file, each corresponding to the designated IP range for the Command Center, Simulation Rooms, and Living Quarters.
-    - For each range, configure `option routers` and `option domain-name-servers` to ensure devices can communicate within their subnet and resolve internal hostnames.
-    - Configure 8 **static IP reservations** across these ranges using MAC addresses to ensure essential systems (e.g., command consoles and training simulators) retain consistent IPs. For example:
+    - [ ] For each range, configure `option routers` and `option domain-name-servers` to ensure devices can communicate within their subnet and resolve internal hostnames.
+    - [ ] Configure 8 **static IP reservations** across these ranges using MAC addresses to ensure essential systems (e.g., command consoles and training simulators) retain consistent IPs. For example:
         
         ```
         host command_console {
@@ -41,16 +41,16 @@ As part of the Battle School’s preparation and simulation environments, a robu
       | Student Terminal #2	| 00:6E:9C:AD:BE:CF	| 192.168.30.12	| Reserved terminal for junior student use in the living quarters. |
 
         
-3. **DNS Server Setup**:
+3. [ ] **DNS Server Setup**:
     - Install **BIND** or `dnsmasq` to serve as the internal DNS server, providing hostname resolution within the Battle School network.
     - Create an internal DNS zone (e.g., `battleschool.local`) and configure DNS entries for key systems and rooms, such as `commandcenter.battleschool.local` and `simroom1.battleschool.local`.
     - Configure forwarders to allow DNS requests for external addresses to be routed through Battle School’s external network.
-4. **Testing and Optimization**:
+4. [ ] **Testing and Optimization**:
     - Test each DHCP range to ensure dynamic IP assignments work as expected for the Command Center, Simulation Rooms, and Living Quarters.
     - Verify that reserved IPs correctly map to their respective devices and that DNS resolution functions across the network.
     - Implement logging for DHCP and DNS to monitor address leasing and resolve any connectivity issues promptly.
 
-**User and Access Control**:
+**BONUS - User and Access Control**:
 
 - **Access Control**: Limit DHCP and DNS management to specific users or administrators (e.g., network engineers) using `sudo` and group-based permissions to prevent unauthorized configuration changes.
 - **Logging and Monitoring**: Set up logging to monitor DHCP leases and DNS queries, essential for maintaining the network’s security and stability, given the sensitive nature of Battle School’s simulations.
