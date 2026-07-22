@@ -1,6 +1,7 @@
-# 
-
 # Labs for Linux Wizardry
+## Resources
+Files and directories are in the resources directory. There is a single PDF file with the resource contents that can be added to files or changed to meet your neds, or there is a zipped directory that when extracted at the root, has the folder structure and the files referenced in the labs for your environment. 
+
 ## Lab 1: The Sorting Hat Deployment & Navigation
 
 * **Requester:** Professor McGonagall (Deputy Headmistress)  
