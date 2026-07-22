@@ -7,13 +7,13 @@ The Fictional Help Desk is a product of my work as the Labmin (Labbing Administr
 ### LPI Linux Essentials
 Welcome to Hogwarts School of Witchcraft and Wizardry's IT Infrastructure Department. The castle is modernizing, and the Ministry of Magic has decreed that all magical tracking, sorting, and communication must now run on a secure, stable Linux backend. As the newly hired Linux Systems Engineer, you have 7 urgent support tickets from the staff. 
 [Hogwarts Support Tickets](https://github.com/LabminMe/fictionalhelpdesk/tree/main/linux/lpi-linux-essentials)
-1. Sorting Hat Development & Navigation
-2. Management of House Points & Potions Logs
-3. Tracking the Marauder’s Map Data
-4. Forbidden Forest Security Auditing
-5. The Ministry of Magic Environmental Variables & Automation
-6. Department of Mysteries Access Control (ACLs)
-7. The Chamber of Secrets Storage & Process Audit
+1. [Sorting Hat Development & Navigation](https://github.com/LabminMe/fictionalhelpdesk/tree/main/linux/lpi-linux-essentials#lab-1-the-sorting-hat-deployment--navigation)
+2. [Management of House Points & Potions Logs](https://github.com/LabminMe/fictionalhelpdesk/tree/main/linux/lpi-linux-essentials#lab-1-the-sorting-hat-deployment--navigation)
+3. [Tracking the Marauder’s Map Data](https://github.com/LabminMe/fictionalhelpdesk/tree/main/linux/lpi-linux-essentials#lab-3-tracking-the-marauders-map-data)
+4. [Forbidden Forest Security Auditing](https://github.com/LabminMe/fictionalhelpdesk/tree/main/linux/lpi-linux-essentials#lab-4-forbidden-forest-security-auditing)
+5. [The Ministry of Magic Environmental Variables & Automation](https://github.com/LabminMe/fictionalhelpdesk/tree/main/linux/lpi-linux-essentials#lab-5-the-ministry-of-magic-environmental-variables--automation)
+6. [Department of Mysteries Access Control (ACLs)](https://github.com/LabminMe/fictionalhelpdesk/tree/main/linux/lpi-linux-essentials#lab-6-department-of-mysteries-access-control-acls)
+7. [The Chamber of Secrets Storage & Process Audit]()
 
 Completing these tasks will ensure the castle runs smoothly and will prepare you for the LPI Linux Essentials objectives (010-160).
 
