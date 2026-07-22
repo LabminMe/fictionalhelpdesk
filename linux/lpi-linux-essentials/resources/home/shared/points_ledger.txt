@@ -1,0 +1,10 @@
+TIMESTAMP           HOUSE        POINTS  REASON                             ISSUED BY
+-----------------------------------------------------------------------------------------
+2026-07-10T09:14:02 GRYFFINDOR   -50     Out of bed after hours (Corridor)  S. Snape
+2026-07-10T10:30:15 SLYTHERIN    +20     Excellent Draught of Peace         S. Snape
+2026-07-11T11:02:44 RAVENCLAW    +10     Answering advanced charm query     F. Flitwick
+2026-07-11T14:22:19 HUFFLEPUFF   +15     Exceptional Mandrake repotting     P. Sprout
+2026-07-12T08:05:00 GRYFFINDOR   -10     Chewing Droobles Best Blowing Gum  M. McGonagall
+2026-07-12T19:55:12 SLYTHERIN    -15     Unwarranted jinxing in courtyard   M. McGonagall
+2026-07-13T13:12:01 GRYFFINDOR   +50     Saving the school from a Troll     A. Dumbledore
+2026-07-13T15:40:55 RAVENCLAW    +05     Flawless translation of Ancient Runes B. Babbling

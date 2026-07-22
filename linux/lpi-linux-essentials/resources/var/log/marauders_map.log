@@ -1,0 +1,100 @@
+[2026-07-13T16:00:01] LOC: Gryffindor Tower | ENTITY: Harry Potter | STATUS: Stationary
+[2026-07-13T16:00:15] LOC: Library (Restricted Sec) | ENTITY: Hermione Granger | STATUS: Moving
+[2026-07-13T16:01:22] LOC: Great Hall | ENTITY: Albus Dumbledore | STATUS: Stationary
+[2026-07-13T16:02:40] LOC: Kitchens | ENTITY: Ron Weasley | STATUS: Moving
+[2026-07-13T16:03:11] LOC: Dungeons | ENTITY: Severus Snape | STATUS: Stationary
+[2026-07-13T16:05:02] LOC: Third-Floor Corridor | ENTITY: Argus Filch | STATUS: Patrolling
+[2026-07-13T16:06:55] LOC: Gryffindor Tower | ENTITY: Dean Thomas | STATUS: Stationary
+[2026-07-13T16:08:14] LOC: Ravenclaw Common Room | ENTITY: Luna Lovegood | STATUS: Moving
+[2026-07-13T16:10:00] LOC: North Tower | ENTITY: Sybill Trelawney | STATUS: Stationary
+[2026-07-13T16:12:33] LOC: Corridors (Near Gryffindor) | ENTITY: Seamus Finnigan | STATUS: Moving
+[2026-07-13T16:13:45] LOC: Hospital Wing | ENTITY: Madam Pomfrey | STATUS: Stationary
+[2026-07-13T16:15:20] LOC: Owlery | ENTITY: Cho Chang | STATUS: Moving
+[2026-07-13T16:17:45] LOC: Grounds (Hagrid's Hut) | ENTITY: Rubeus Hagrid | STATUS: Stationary
+[2026-07-13T16:19:02] LOC: Slytherin Common Room | ENTITY: Draco Malfoy | STATUS: Stationary
+[2026-07-13T16:20:59] LOC: Corridors (Second Floor) | ENTITY: Moaning Myrtle | STATUS: Floating
+[2026-07-13T16:21:12] LOC: Great Hall | ENTITY: Minerva McGonagall | STATUS: Stationary
+[2026-07-13T16:22:30] LOC: Hufflepuff Common Room | ENTITY: Cedric Diggory | STATUS: Stationary
+[2026-07-13T16:24:05] LOC: Divination Classroom | ENTITY: Neville Longbottom | STATUS: Moving
+[2026-07-13T16:25:18] LOC: Trophy Room | ENTITY: Argus Filch | STATUS: Patrolling
+[2026-07-13T16:26:40] LOC: Library | ENTITY: Hermione Granger | STATUS: Stationary
+[2026-07-13T16:27:55] LOC: Astronomy Tower | ENTITY: Harry Potter | STATUS: Moving
+[2026-07-13T16:29:01] LOC: Dungeons | ENTITY: Draco Malfoy | STATUS: Moving
+[2026-07-13T16:30:14] LOC: Great Hall | ENTITY: Ron Weasley | STATUS: Stationary
+[2026-07-13T16:31:22] LOC: Charms Classroom | ENTITY: Filius Flitwick | STATUS: Stationary
+[2026-07-13T16:32:45] LOC: Corridors (First Floor) | ENTITY: Percy Weasley | STATUS: Patrolling
+[2026-07-13T16:34:02] LOC: Gryffindor Tower | ENTITY: Ginny Weasley | STATUS: Stationary
+[2026-07-13T16:35:19] LOC: Grounds | ENTITY: Fred Weasley | STATUS: Moving
+[2026-07-13T16:36:50] LOC: Grounds | ENTITY: George Weasley | STATUS: Moving
+[2026-07-13T16:38:04] LOC: Potions Classroom | ENTITY: Severus Snape | STATUS: Stationary
+[2026-07-13T16:39:15] LOC: Ravenclaw Common Room | ENTITY: Cho Chang | STATUS: Stationary
+[2026-07-13T16:40:22] LOC: Third-Floor Corridor | ENTITY: Harry Potter | STATUS: Sneaking
+[2026-07-13T16:41:40] LOC: Library | ENTITY: Ron Weasley | STATUS: Moving
+[2026-07-13T16:43:01] LOC: Library (Restricted Sec) | ENTITY: Hermione Granger | STATUS: Stationary
+[2026-07-13T16:44:12] LOC: Headmaster's Office | ENTITY: Albus Dumbledore | STATUS: Stationary
+[2026-07-13T16:45:30] LOC: Dungeons | ENTITY: Gregory Goyle | STATUS: Stationary
+[2026-07-13T16:46:44] LOC: Dungeons | ENTITY: Vincent Crabbe | STATUS: Stationary
+[2026-07-13T16:48:02] LOC: Hospital Wing | ENTITY: Neville Longbottom | STATUS: Stationary
+[2026-07-13T16:49:15] LOC: Hufflepuff Common Room | ENTITY: Hannah Abbott | STATUS: Stationary
+[2026-07-13T16:50:59] LOC: Corridors (Fourth Floor) | ENTITY: Argus Filch | STATUS: Patrolling
+[2026-07-13T16:52:14] LOC: Lake Shore | ENTITY: Hagrid's Hut | STATUS: Moving
+[2026-07-13T16:53:40] LOC: Gryffindor Tower | ENTITY: Dean Thomas | STATUS: Moving
+[2026-07-13T16:55:01] LOC: Great Hall | ENTITY: Minerva McGonagall | STATUS: Moving
+[2026-07-13T16:56:22] LOC: Kitchens | ENTITY: Fred Weasley | STATUS: Stationary
+[2026-07-13T16:57:45] LOC: Kitchens | ENTITY: George Weasley | STATUS: Stationary
+[2026-07-13T16:59:10] LOC: Owlery | ENTITY: Hermione Granger | STATUS: Moving
+[2026-07-13T17:00:05] LOC: Gryffindor Tower | ENTITY: Harry Potter | STATUS: Stationary
+[2026-07-13T17:01:30] LOC: Corridors (Fifth Floor) | ENTITY: Luna Lovegood | STATUS: Moving
+[2026-07-13T17:02:44] LOC: Potions Classroom | ENTITY: Severus Snape | STATUS: Stationary
+[2026-07-13T17:04:12] LOC: Slytherin Common Room | ENTITY: Draco Malfoy | STATUS: Stationary
+[2026-07-13T17:05:33] LOC: Great Hall | ENTITY: Albus Dumbledore | STATUS: Stationary
+[2026-07-13T17:06:55] LOC: Corridors (Third Floor) | ENTITY: Ron Weasley | STATUS: Moving
+[2026-07-13T17:08:14] LOC: Corridors (Third Floor) | ENTITY: Hermione Granger | STATUS: Moving
+[2026-07-13T17:09:40] LOC: Prefects Bathroom | ENTITY: Cedric Diggory | STATUS: Stationary
+[2026-07-13T17:11:02] LOC: Greenhouse 3 | ENTITY: Pomona Sprout | STATUS: Stationary
+[2026-07-13T17:12:19] LOC: Grounds | ENTITY: Rubeus Hagrid | STATUS: Moving
+[2026-07-13T17:13:55] LOC: Trophy Room | ENTITY: Peeves | STATUS: Hovering
+[2026-07-13T17:15:01] LOC: Dungeons | ENTITY: Blaise Zabini | STATUS: Stationary
+[2026-07-13T17:16:24] LOC: Library | ENTITY: Ginny Weasley | STATUS: Stationary
+[2026-07-13T17:17:40] LOC: Great Hall | ENTITY: Seamus Finnigan | STATUS: Stationary
+[2026-07-13T17:19:02] LOC: Great Hall | ENTITY: Neville Longbottom | STATUS: Moving
+[2026-07-13T17:20:15] LOC: Astronomy Tower | ENTITY: Professor Sinistra | STATUS: Stationary
+[2026-07-13T17:21:44] LOC: Corridors (Second Floor) | ENTITY: Argus Filch | STATUS: Patrolling
+[2026-07-13T17:23:02] LOC: Gryffindor Tower | ENTITY: Ron Weasley | STATUS: Stationary
+[2026-07-13T17:24:19] LOC: Gryffindor Tower | ENTITY: Hermione Granger | STATUS: Stationary
+[2026-07-13T17:25:55] LOC: Headmaster's Office | ENTITY: Albus Dumbledore | STATUS: Stationary
+[2026-07-13T17:27:12] LOC: Dungeons | ENTITY: Severus Snape | STATUS: Moving
+[2026-07-13T17:28:40] LOC: Corridors (First Floor) | ENTITY: Harry Potter | STATUS: Moving
+[2026-07-13T17:30:01] LOC: Ravenclaw Common Room | ENTITY: Luna Lovegood | STATUS: Stationary
+[2026-07-13T17:31:22] LOC: Hufflepuff Common Room | ENTITY: Ernie Macmillan | STATUS: Stationary
+[2026-07-13T17:32:45] LOC: Owlery | ENTITY: Draco Malfoy | STATUS: Moving
+[2026-07-13T17:34:02] LOC: Kitchens | ENTITY: Dobby | STATUS: Moving
+[2026-07-13T17:35:18] LOC: Great Hall | ENTITY: Minerva McGonagall | STATUS: Stationary
+[2026-07-13T17:36:40] LOC: Corridors (Near Gryffindor) | ENTITY: Peter Pettigrew | STATUS: Sneaking
+[2026-07-13T17:37:55] LOC: Hospital Wing | ENTITY: Madam Pomfrey | STATUS: Stationary
+[2026-07-13T17:39:11] LOC: Grounds (Hagrid's Hut) | ENTITY: Rubeus Hagrid | STATUS: Stationary
+[2026-07-13T17:40:30] LOC: Library | ENTITY: Cho Chang | STATUS: Stationary
+[2026-07-13T17:41:55] LOC: Third-Floor Corridor | ENTITY: Harry Potter | STATUS: Stationary
+[2026-07-13T17:43:02] LOC: Third-Floor Corridor | ENTITY: Ron Weasley | STATUS: Stationary
+[2026-07-13T17:44:20] LOC: Third-Floor Corridor | ENTITY: Hermione Granger | STATUS: Stationary
+[2026-07-13T17:45:44] LOC: Corridors (Third Floor) | ENTITY: Argus Filch | STATUS: Moving
+[2026-07-13T17:47:01] LOC: Dungeons | ENTITY: Pansy Parkinson | STATUS: Stationary
+[2026-07-13T17:48:22] LOC: Slytherin Common Room | ENTITY: Draco Malfoy | STATUS: Moving
+[2026-07-13T17:49:50] LOC: Great Hall | ENTITY: Filius Flitwick | STATUS: Stationary
+[2026-07-13T17:51:12] LOC: Divination Classroom | ENTITY: Sybill Trelawney | STATUS: Stationary
+[2026-07-13T17:52:40] LOC: Gryffindor Tower | ENTITY: Neville Longbottom | STATUS: Stationary
+[2026-07-13T17:54:02] LOC: Hufflepuff Common Room | ENTITY: Justin Finch-Fletchley | STATUS: Moving
+[2026-07-13T17:55:19] LOC: Library | ENTITY: Padma Patil | STATUS: Stationary
+[2026-07-13T17:56:45] LOC: Library | ENTITY: Parvati Patil | STATUS: Stationary
+[2026-07-13T17:58:02] LOC: Corridors (Sixth Floor) | ENTITY: Luna Lovegood | STATUS: Moving
+[2026-07-13T17:59:15] LOC: Owlery | ENTITY: Ginny Weasley | STATUS: Moving
+[2026-07-13T18:00:00] LOC: Great Hall | ENTITY: Albus Dumbledore | STATUS: Stationary
+[2026-07-13T18:01:12] LOC: Great Hall | ENTITY: Minerva McGonagall | STATUS: Stationary
+[2026-07-13T18:02:40] LOC: Great Hall | ENTITY: Severus Snape | STATUS: Stationary
+[2026-07-13T18:03:55] LOC: Great Hall | ENTITY: Harry Potter | STATUS: Moving
+[2026-07-13T18:05:14] LOC: Great Hall | ENTITY: Ron Weasley | STATUS: Moving
+[2026-07-13T18:06:30] LOC: Great Hall | ENTITY: Hermione Granger | STATUS: Moving
+[2026-07-13T18:07:45] LOC: Trophy Room | ENTITY: Argus Filch | STATUS: Patrolling
+[2026-07-13T18:09:02] LOC: Dungeons | ENTITY: Draco Malfoy | STATUS: Stationary
+[2026-07-13T18:10:22] LOC: Hufflepuff Common Room | ENTITY: Cedric Diggory | STATUS: Moving
+[2026-07-13T18:12:00] LOC: Gryffindor Tower | ENTITY: Seamus Finnigan | STATUS: Stationary

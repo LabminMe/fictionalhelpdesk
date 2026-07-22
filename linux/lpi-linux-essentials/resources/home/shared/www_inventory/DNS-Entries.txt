@@ -1,0 +1,10 @@
+Domain Name / Host FQDN,Record Type,Target IP Address,Network Description & Gateway Allocation
+diagonalley.magic,A,10.192.10.25,Main Commercial Network Server (Diagon Alley Base Segment)
+www.diagonalley.magic,CNAME,diagonalley.magic,Weasleys' Wizard Wheezes Ecommerce Portal Alias
+ministry.magic,A,10.240.1.10,Ministry of Magic Primary Datacenter Core Gateway
+owlpost.hogwarts.edu,A,192.168.42.50,Hogwarts Owl Post Mail Routing Daemon Terminal
+owlpost.hogwarts.edu,MX,10 owlpost.hogwarts.edu,Mail Exchanger Priority Record for Castle Communications
+hogwarts.edu,NS,192.168.42.1,Primary Authoritative Castle Internal Name Server
+restricted.library.hogwarts.edu,A,192.168.42.99,Highly Firewalled Restricted Section Database Node
+gringotts.magic,A,10.192.20.100,Gringotts Wizarding Bank High-Security Vault Sub-Net
+hogsmeade.magic,A,192.168.50.4,Local Village Edge Network Router Gateway Node

@@ -1,0 +1,21 @@
+========================================================================
+                 WONDERWITCH CONFIDENTIAL PRODUCT LEDGER
+========================================================================
+BATCH_ID: WW-LP-902
+PRODUCT: Amortentia (Standard Grade)
+STATUS: Aging in oak casks
+VOLUME: 50 Liters
+SECURITY_LEVEL: Restricted / High-Potency
+NOTES: Mother-of-pearl sheen verified. Spiraling steam metrics nominal. 
+
+BATCH_ID: WW-KP-114
+PRODUCT: 10-Minute Pimple Vanisher
+STATUS: Packaged for shipment
+QUANTITY: 5,000 tubes
+NOTES: Tested clear of toxic facial-melting side effects. Safe for third-years.
+
+BATCH_ID: WW-CD-401
+PRODUCT: Patented Daydream Charms
+STATUS: Quality Assurance Check
+QUANTITY: 350 boxes
+NOTES: Ensure protective psychic counter-wards are active during boxing to prevent team daydreams.
